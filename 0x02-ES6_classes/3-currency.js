@@ -1,4 +1,5 @@
 export default class Currency {
+
     constructor(code, name) {
       this.code = code;
       this.name = name;
@@ -19,7 +20,6 @@ export default class Currency {
     set name(value) {
       this._name = value;
     }
-  
     /**
      * Creates the full string representation of this Currency.
      * @returns {String}
