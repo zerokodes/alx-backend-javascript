@@ -1,5 +1,4 @@
 import ClassRoom from './0-classroom';
-
 /**
  * Creates an array of ClassRoom with a specific size
  * @return an array of ClassRoom
